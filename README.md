@@ -24,8 +24,8 @@ cd Receipts_VQA/
 2. Create conda environments:
 
 ```shell
-conda create --name < ENV_NAME > python=3.11 -y
-conda activate < ENV_NAME >
+conda create --name <ENV_NAME> python=3.11 -y
+conda activate <ENV_NAME>
 ```
 
 3. Install [torch](https://pytorch.org/)
